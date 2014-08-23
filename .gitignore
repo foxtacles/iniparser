@@ -1,0 +1,12 @@
+*.depend
+*.layout
+*.a
+*.def
+*.dll
+*.log
+*.workspace
+obj
+src/*.o
+.objs
+*.sleepy
+*.cbTemp
